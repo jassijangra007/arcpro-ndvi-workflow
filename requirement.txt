@@ -1,0 +1,5 @@
+# Use ArcGIS Pro default Python environment
+# ArcPy is pre-installed with ArcGIS Pro
+
+# Required:
+ArcGIS Pro (with Spatial Analyst extension)
