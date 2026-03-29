@@ -110,8 +110,3 @@ C:\Jassi\DEMO
 
 Developed by Jassi for GIS & Remote Sensing workflows using ArcGIS Pro.
 
----
-
-## 📜 License
-
-MIT License (or choose your preferred license)
