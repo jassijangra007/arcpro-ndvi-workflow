@@ -108,7 +108,7 @@ C:\Jassi\DEMO
 
 ## 👨‍💻 Author
 
-Developed for GIS & Remote Sensing workflows using ArcGIS Pro.
+Developed by Jassi for GIS & Remote Sensing workflows using ArcGIS Pro.
 
 ---
 
